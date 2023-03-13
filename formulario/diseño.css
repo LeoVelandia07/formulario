@@ -1,0 +1,16 @@
+.titulo {
+    background-color: rgb(2, 2, 15);
+    padding: 20px;
+    color: rgb(226, 232, 107);
+    text-align: center;
+}
+
+.formulario {
+    background-color: rgb(202, 222, 101);
+    text-align: center;
+}
+.comentario {
+    background-color: black;
+    color: rgb(199, 222, 97);
+    text-align: center;
+}
